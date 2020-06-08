@@ -1,0 +1,10 @@
+name: pythonskills
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - scipy
+  - matplotlib
+  - ipykernel
+  - numpy
+
